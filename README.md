@@ -3,7 +3,7 @@ This example how to fetch complete or nested Json api
 
 Example JSon APi <br>
 
-`[`
+`[` <br>
 `{  ` <br>
   `"createdAt": "2021-09-16T01:21:14.687Z",`  <br>
   `"name": "Intelligent Granite Car",`  <br>
@@ -20,4 +20,4 @@ Example JSon APi <br>
   `},`  <br>
   `"id": "1"`  <br>
   `}` <br>
-`]`
+`]` <br>
