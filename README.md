@@ -21,3 +21,19 @@ Example JSon APi <br>
   `"id": "1"`  <br>
   `}` <br>
 `]` <br>
+
+```
+{
+  cssOverrides: `
+    .container {
+      display: block;
+      padding: 1rem;
+      margin-bottom: 2rem;
+    }
+
+    .container code {
+      padding: 1.5rem;
+    }
+  `
+}
+```
