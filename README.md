@@ -1,7 +1,7 @@
 # flutter nested json
 This example how to fetch complete or nested Json api
 
-Example JSon APi <br>
+Example Json APi <br>
 
 ```
 [
